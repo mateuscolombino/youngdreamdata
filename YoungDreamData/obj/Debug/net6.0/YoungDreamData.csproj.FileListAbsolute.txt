@@ -1,0 +1,14 @@
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\bin\Debug\net6.0\YoungDreamData.exe
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\bin\Debug\net6.0\YoungDreamData.deps.json
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\bin\Debug\net6.0\YoungDreamData.runtimeconfig.json
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\bin\Debug\net6.0\YoungDreamData.dll
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\bin\Debug\net6.0\YoungDreamData.pdb
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.AssemblyInfo.cs
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.dll
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\refint\YoungDreamData.dll
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.pdb
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\YoungDreamData.genruntimeconfig.cache
+C:\Users\mateu\Desktop\faculdade\testes\YoungDreamData\YoungDreamData\obj\Debug\net6.0\ref\YoungDreamData.dll
